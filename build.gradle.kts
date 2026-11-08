@@ -16,5 +16,5 @@ tasks.compileJava {
 pumpkin {
     apiGroup.set("com.github.UDouble-Factory.pumpkin-api-java")
     apiVersion.set(providers.gradleProperty("pumpkin_api_version"))
-    pluginClass.set("io.mrw_98.justvoid.JustVoid")
+    pluginClass.set("io.mr_w98.justvoid.JustVoid")
 }
